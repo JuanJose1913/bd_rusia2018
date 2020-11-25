@@ -3,7 +3,7 @@ CREATE DATABASE Mundial_Rusia;
 USE Mundial_Rusia;
 
 CREATE TABLE confederacion(
-    ID_Confederacion VARCHAR (3) NOT NULL,
+    ID_Confederacion VARCHAR (4) NOT NULL,
     Nombre_Confederacion VARCHAR (45) NOT NULL,
     PRIMARY KEY (ID_Confederacion)
 );
