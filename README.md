@@ -1,1 +1,2 @@
-# bd_rusia2018
+# bd_rusia
+Juanjo aqui debemos escribir la explicacion o documentacion de lo que estamos haciendo
